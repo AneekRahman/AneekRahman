@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on 2 AI projects.
+- 🤔 I’m looking for help with managing the business side of my tech startups
 - 📫 How to reach me: s4080214@student.rmit.edu.au
 - ⚡ Fun fact: I love dumplings!
-- 🤔 I’m looking for help with managing the business side of my tech startups
+

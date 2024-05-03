@@ -4,7 +4,6 @@
 **AneekRahman/AneekRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently building 2 AI projects.
+- 📫 How to reach me: s4080214@student.rmit.edu.au
+- ⚡ Fun fact: I love dumplings!
+- 🤔 I’m looking for help with managing the business side of my tech startups

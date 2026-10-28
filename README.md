@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Lumico, an AI startup for AI creators to profit from their work.
-- 🤔 I’m looking for help with managing the business side of my tech startups
-- 📫 How to reach me: aneek@lumico.ai
-- ⚡ Fun fact: I love dumplings!
+- 🔭 I’m currently working on my startup, Lumico!
+- 📫 How to reach me: aneek@lumico.ai 
 
